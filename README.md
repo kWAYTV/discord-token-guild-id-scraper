@@ -13,10 +13,10 @@ Welcome to Guild Scraper, an intuitive and powerful tool designed for extracting
 ## 🚀 Usage 🚀
 
 ```bash
-# 1. Install the necessary dependencies:
-pip install -r requirements.txt
+# 1. Clone the repository and navigate into it.
 
-# 2. Clone the repository and navigate into it.
+# 2. Install the necessary dependencies:
+pip install -r requirements.txt
 
 # 3. Edit the `tokens.txt` file and add your Discord API tokens (each token must be on a new line).
 
